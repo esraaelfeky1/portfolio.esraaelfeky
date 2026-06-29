@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
 
 export default function Hero({ id }) {
@@ -101,7 +102,7 @@ export default function Hero({ id }) {
 
          
           <img
-            src="public/WhatsApp Image 2025-10-28 at 21.51.41_63afc293.jpg"
+            src="public/hero.jpg"
             alt="profile"
             className="w-62 h-62 sm:w-62 sm:h-62 object-cover rounded-full border-4 border-pink-300 relative z-10"
           />
